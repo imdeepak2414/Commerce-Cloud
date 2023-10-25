@@ -1,0 +1,8 @@
+Squase commands:-
+1. git rebase -i HEAD~<2> count of commit
+2. replace pick with s ( command i, wq, d. w Esc )
+3. :wq
+4. remove all line add only last commit with space
+5. :wq
+6. git push -f origin <feature/NGLACR-1405> branch name with force
+git push -f origin 'feat(LACR-1689): GLOBAL - Function issue on audit in BM send email when file empty':wq means write and quite , means save karke quite kar dega
